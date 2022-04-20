@@ -8,5 +8,5 @@ Jenkins
 
 
 Ansible
-1) Ansible code for copy file source to Destination 
-2) Service httpd start configuration  
+1) Copy code from ansible file 
+2) Configure httpd service on client machine using  ansible 
